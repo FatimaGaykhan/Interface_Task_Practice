@@ -1,0 +1,15 @@
+/Users/fatimagaykhanova/Desktop/Interface_Practice/Interface_Practice/bin/Debug/net6.0/Interface_Practice
+/Users/fatimagaykhanova/Desktop/Interface_Practice/Interface_Practice/bin/Debug/net6.0/Interface_Practice.deps.json
+/Users/fatimagaykhanova/Desktop/Interface_Practice/Interface_Practice/bin/Debug/net6.0/Interface_Practice.runtimeconfig.json
+/Users/fatimagaykhanova/Desktop/Interface_Practice/Interface_Practice/bin/Debug/net6.0/Interface_Practice.dll
+/Users/fatimagaykhanova/Desktop/Interface_Practice/Interface_Practice/bin/Debug/net6.0/Interface_Practice.pdb
+/Users/fatimagaykhanova/Desktop/Interface_Practice/Interface_Practice/obj/Debug/net6.0/Interface_Practice.csproj.AssemblyReference.cache
+/Users/fatimagaykhanova/Desktop/Interface_Practice/Interface_Practice/obj/Debug/net6.0/Interface_Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimagaykhanova/Desktop/Interface_Practice/Interface_Practice/obj/Debug/net6.0/Interface_Practice.AssemblyInfoInputs.cache
+/Users/fatimagaykhanova/Desktop/Interface_Practice/Interface_Practice/obj/Debug/net6.0/Interface_Practice.AssemblyInfo.cs
+/Users/fatimagaykhanova/Desktop/Interface_Practice/Interface_Practice/obj/Debug/net6.0/Interface_Practice.csproj.CoreCompileInputs.cache
+/Users/fatimagaykhanova/Desktop/Interface_Practice/Interface_Practice/obj/Debug/net6.0/Interface_Practice.dll
+/Users/fatimagaykhanova/Desktop/Interface_Practice/Interface_Practice/obj/Debug/net6.0/refint/Interface_Practice.dll
+/Users/fatimagaykhanova/Desktop/Interface_Practice/Interface_Practice/obj/Debug/net6.0/Interface_Practice.pdb
+/Users/fatimagaykhanova/Desktop/Interface_Practice/Interface_Practice/obj/Debug/net6.0/Interface_Practice.genruntimeconfig.cache
+/Users/fatimagaykhanova/Desktop/Interface_Practice/Interface_Practice/obj/Debug/net6.0/ref/Interface_Practice.dll

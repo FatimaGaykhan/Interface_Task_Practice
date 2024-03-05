@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{C45D889D-F1D6-4447-A583-472B68C41437}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interface_Task/Services/EmployeeService.cs">
+    <Files>
+      <File FileName="Interface_Task/Program.cs" Line="6" Column="1" />
+      <File FileName="Interface_Task/Services/Interfaces/IEmployeeService.cs" Line="15" Column="1" />
+      <File FileName="Interface_Task/Services/EmployeeService.cs" Line="135" Column="33" />
+      <File FileName="Interface_Task/Controllers/EmployeeController.cs" Line="45" Column="1" />
+      <File FileName="Interface_Task/Helpers/Responses/EmployeeResponse.cs" Line="10" Column="20" />
+      <File FileName="Interface_Task/Helpers/Constants/EmployeeMessages.cs" Line="6" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interface_Task" expanded="True">
+            <Node name="Interface_Task" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Helpers" expanded="True">
+                <Node name="Constants" expanded="True" />
+                <Node name="Responses" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="EmployeeService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Interface__Task PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/Program.cs" relfile="Interface_Task/Program.cs" line="6" column="1" />
+      <Breakpoint file="/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/Services/EmployeeService.cs" relfile="Interface_Task/Services/EmployeeService.cs" line="128" column="1" />
+      <Breakpoint file="/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/Controllers/EmployeeController.cs" relfile="Interface_Task/Controllers/EmployeeController.cs" line="41" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

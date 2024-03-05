@@ -1,0 +1,15 @@
+/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/bin/Release/net6.0/Interface_Task
+/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/bin/Release/net6.0/Interface_Task.deps.json
+/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/bin/Release/net6.0/Interface_Task.runtimeconfig.json
+/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/bin/Release/net6.0/Interface_Task.dll
+/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/bin/Release/net6.0/Interface_Task.pdb
+/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/obj/Release/net6.0/Interface_Task.csproj.AssemblyReference.cache
+/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/obj/Release/net6.0/Interface_Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/obj/Release/net6.0/Interface_Task.AssemblyInfoInputs.cache
+/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/obj/Release/net6.0/Interface_Task.AssemblyInfo.cs
+/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/obj/Release/net6.0/Interface_Task.csproj.CoreCompileInputs.cache
+/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/obj/Release/net6.0/Interface_Task.dll
+/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/obj/Release/net6.0/refint/Interface_Task.dll
+/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/obj/Release/net6.0/Interface_Task.pdb
+/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/obj/Release/net6.0/Interface_Task.genruntimeconfig.cache
+/Users/fatimagaykhanova/Desktop/Interface_Task/Interface_Task/obj/Release/net6.0/ref/Interface_Task.dll

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{747B1464-44EE-4A8F-8D70-C1F44198F926}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interface_Practice/Book.cs">
+    <Files>
+      <File FileName="Interface_Practice/Program.cs" Line="5" Column="16" />
+      <File FileName="Interface_Practice/IBook.cs" Line="9" Column="16" />
+      <File FileName="Interface_Practice/Book.cs" Line="11" Column="10" />
+      <File FileName="Interface_Practice/Test.cs" Line="4" Column="30" />
+      <File FileName="Interface_Practice/Car.cs" Line="6" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interface_Practice" expanded="True">
+            <Node name="Interface_Practice" expanded="True">
+              <Node name="Book.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Interface__Practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
